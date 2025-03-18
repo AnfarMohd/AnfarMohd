@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ANFAR MOHAMMED</h1>
 <h3 align="center">A passionate frontend developer from India.And, Trust me — I’m an engineer on Instagram!</h3>
 
-- 📫 How to reach me **anfarmohd@gmail.com**
+- 📫 How to reach me 
 
 - ⚡ Fun fact **Time wasted Successfully✅️🥱**
 
